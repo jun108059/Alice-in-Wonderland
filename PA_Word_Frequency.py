@@ -221,3 +221,5 @@ for i in difficult_words:
 
 print(">>> 어려운 단어의 개수 : ", len(difficult_words))
 print(">>> 어려운 단어 목록 : ", difficult_words)
+
+# 190502 Local Repository 변경 사항 확인해보기
